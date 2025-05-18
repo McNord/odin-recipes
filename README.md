@@ -1,1 +1,1 @@
-I will learn how to create a website and set up a Git repository basically by myself. I'll do the HTML boilerplate from the ground up and try to make it as good as I can and learn from the experience and use the time to think through the problems.
+Creating my first basic website containing three recipes all linked from a main page. Used Mistral AI to create the images and recipes. All coding done by myself.
